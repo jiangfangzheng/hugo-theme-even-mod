@@ -1,5 +1,9 @@
 # hugo-theme-even
 
+异想家对olowolo的Hugo主题even的修改版，主要修改界面风格和部分跳转url，使得更契合自己的网站体系。
+
+原作者原文：
+
 [![GitHub contributors](https://img.shields.io/github/contributors/olOwOlo/hugo-theme-even.svg?colorB=green)](https://github.com/olOwOlo/hugo-theme-even/contributors)
 [![GitHub release](https://img.shields.io/github/release/olOwOlo/hugo-theme-even.svg?colorB=green)](https://github.com/olOwOlo/hugo-theme-even/releases)
 [![GitHub commits (since latest release)](https://img.shields.io/github/commits-since/olOwOlo/hugo-theme-even/latest.svg?colorB=green)](https://github.com/olOwOlo/hugo-theme-even/compare)
